@@ -4,7 +4,16 @@
 1. Create a virtual environment
 ```bash
 python -m venv venv
+```
+
+For Linux users:
+```bash
 source venv/bin/activate
+```
+
+For Windows users:
+```bash
+source venv/Scripts/activate
 ```
 
 2. Install necessary packages
